@@ -7,13 +7,13 @@
 
 # Site settings
 title: uSocial
-email: your-email@domain.com
+email: dan_wang@alumni.brown.edu
 description: > # this means to ignore newlines until "baseurl:"
   A social network that breaks the rules &ndash; by putting users first.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.usocial.xyz" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: teabylila
+github_username: danwang1995
 
 # Build settings
 markdown: kramdown

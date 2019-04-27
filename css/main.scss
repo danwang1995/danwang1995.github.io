@@ -52,11 +52,15 @@ $on-laptop:        800px;
         "syntax-highlighting"
 ;
 
-.center {
+.logo {
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 80%;
+}
+
+.center {
+  text-align: center;
 }
 
 input[type=email], select {

@@ -70,7 +70,7 @@ input[type=email], select {
 }
 
 input[type=submit] {
-  width: 100%;
+  width: 50%;
   background-color: #6FA8DC;
   color: white;
   padding: 14px 20px;
@@ -82,4 +82,16 @@ input[type=submit] {
 
 input[type=submit]:hover {
   background-color: #4F63B8;
+}
+
+h1 {
+  text-align: center
+}
+
+h2 {
+  text-align: center
+}
+
+h3 {
+  text-align: center
 }

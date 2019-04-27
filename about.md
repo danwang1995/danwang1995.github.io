@@ -6,7 +6,7 @@ permalink: /about/
 
 <h2>Contact Us</h2>
 
-For all media inquiries, please contact <a href="https://www.linkedin.com/in/karinabao/">Karina Bao</a>.
+For all media and partnership inquiries, please contact <a href="https://www.linkedin.com/in/karinabao/">Karina Bao</a>.
 
 Interested in joining the team? Reach out to <a href="https://www.linkedin.com/in/danwenwang/">Dan Wang</a>.
 
